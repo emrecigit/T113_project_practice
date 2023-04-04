@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Fibonacci {
-    //Kullanıcadan alınanan bir tamsayıya kadar FIBONACCI dizisi oluşturun. 1 1 2 3 5 8
+    //Kullanıcadan alınanan bir tamsayıya kadar FIBONACCI dizisi oluşturun. 1 1 2 3 5 8 13
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.print("Pozitif bir sayı giriniz: ");
